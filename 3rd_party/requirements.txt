@@ -1,0 +1,7 @@
+Dependency libraries:
+1) MySQL-Python: http://sourceforge.net/projects/mysql-python/, for 64bit on windows, download from http://www.codegood.com/downloads
+2) django-guardian: http://packages.python.org/django-guardian/installation.html, used to implement per-object permissions, pip install django-guardian
+3) django-filter: used to filter objects with company, pip install django-filter
+4) django-rest-framework: http://django-rest-framework.org/
+5) South: used to migrate DB schema and data. $ sudo pip install south
+6) Python Cryptography Toolkit. Get it at https://www.dlitz.net/software/pycrypto/. $ sudo pip install pycrypto
